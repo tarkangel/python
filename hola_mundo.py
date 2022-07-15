@@ -1,4 +1,8 @@
-print("Hola Mundo")
+var = print("Hola Mundo")
+
+var 
+
+
 
 
 
