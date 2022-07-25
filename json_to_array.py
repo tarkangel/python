@@ -1,6 +1,6 @@
 import json
 
-array = '{"fruits": ["apple", "banana", "orange"]}'
+array = '{"fruits": ["apple", "banana", "orange","coconut"]}'
 data  = json.loads(array)
 print (data['fruits'])
 # the print displays:
